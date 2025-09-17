@@ -24,3 +24,6 @@ numpy<2.0.0
 av
 librosa
 tyro<0.9.0
+llamafactory
+omegaconf
+traker
